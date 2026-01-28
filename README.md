@@ -1,6 +1,7 @@
 # Prysm-CRM
 
 ✅ Project info
+
 Mini CRM Backend
 
 Tech stack (Node, Express, Prisma, PostgreSQL)
