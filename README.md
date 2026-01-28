@@ -14,11 +14,15 @@ npx prisma migrate dev
 npm run dev
 
 ✅ Environment variables
+
 DATABASE_URL=
+
 JWT_SECRET=
+
 PORT=
 
 ✅ API routes
+
 /auth/register
 
 /auth/login
@@ -30,6 +34,7 @@ PORT=
 /users
 
 ✅ Roles
+
 ADMIN
 
 EMPLOYEE
