@@ -6,8 +6,11 @@ Mini CRM Backend
 Tech stack (Node, Express, Prisma, PostgreSQL)
 
 ✅ Setup steps
+
 npm install
+
 npx prisma migrate dev
+
 npm run dev
 
 ✅ Environment variables
